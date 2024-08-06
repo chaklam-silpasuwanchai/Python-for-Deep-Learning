@@ -129,3 +129,4 @@ chakyenv/
 .vector_cache/
 Code/06 - Multimodal/save_model/U-Net.pth
 03-Segmentation/save_model/U-Net.pth
+*.pth
