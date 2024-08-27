@@ -2,6 +2,8 @@
 
 This repository collects and gathers recent trends in deep learning, extending from the work found at [dsai-asia/RTML](https://github.com/dsai-asia/RTML).
 
+Google slide lectures can be found:  https://drive.google.com/drive/folders/1iA1ezVmsB5qZpEXEV3NEPFhLwoSDQz2Q
+
 ## Table of Contents
 
 1. [Introduction](#introduction)

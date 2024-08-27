@@ -130,3 +130,4 @@ chakyenv/
 Code/06 - Multimodal/save_model/U-Net.pth
 03-Segmentation/save_model/U-Net.pth
 *.pth
+06-Speech/02-TTS/TSync2

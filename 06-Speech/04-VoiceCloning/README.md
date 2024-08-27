@@ -14,5 +14,7 @@ Transfer learning (TL): It is a research problem in machine learning (ML) that f
 
 [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning?tab=readme-ov-file)
 
-
 [Voice Cloning: a Multi-Speaker Text-to-Speech Synthesis Approach based on Transfer Learning](https://arxiv.org/pdf/2102.05630)
+
+[FreeVC: Towards High-Quality Text-Free One-Shot Voice Conversion - 2022](https://arxiv.org/pdf/2210.15418)
+[YourTTS: Towards Zero-Shot Multi-Speaker TTS and Zero-Shot Voice Conversion for everyone - 2023](https://arxiv.org/pdf/2112.02418)
